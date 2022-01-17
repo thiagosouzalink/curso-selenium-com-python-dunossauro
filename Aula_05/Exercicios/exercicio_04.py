@@ -1,7 +1,6 @@
 import json
 from time import sleep
 from urllib.parse import urlparse
-from xml.dom.minidom import Element
 
 from selenium.webdriver import Firefox
 
